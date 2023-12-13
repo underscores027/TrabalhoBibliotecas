@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="trabArvoreBinariaExemplo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ArvoreBinaria/out/artifacts/trabArvoreBinariaExemplo_jar/trabArvoreBinariaExemplo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
