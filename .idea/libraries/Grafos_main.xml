@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Grafos-main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Grafos-Remove/out/artifacts/Grafos_main_jar/Grafos-main.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
